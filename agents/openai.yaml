@@ -1,0 +1,4 @@
+interface:
+  display_name: "Narrative Logic Engine"
+  short_description: "Build transparent argument maps and finished drafts"
+  default_prompt: "Use $narrative-logic-engine to build a coherent fictional or advocacy argument with a structured logic map and draft."

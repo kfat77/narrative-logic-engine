@@ -1,4 +1,4 @@
 interface:
   display_name: "Narrative Logic Engine"
-  short_description: "Build transparent argument maps and finished drafts"
-  default_prompt: "Use $narrative-logic-engine to build a coherent fictional or advocacy argument with a structured logic map and draft."
+  short_description: "Turn multimodal sources into coherent worlds"
+  default_prompt: "Use $narrative-logic-engine to synthesize my supplied notes, images, and video into a traceable world bible and draft."
